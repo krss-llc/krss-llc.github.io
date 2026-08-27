@@ -34,7 +34,7 @@ This repository showcases the benefits of simplified, cloud-native architecture�
 
 ## Architecture Benefits
 
-
+```
 ┌─────────────┐
 │  Client     │
 │   (CDN)     │
@@ -55,7 +55,7 @@ This repository showcases the benefits of simplified, cloud-native architecture�
 │ - UI        │
 │   (Bulma)   │
 └─────────────┘
-
+```
 ## Why This Approach Works
 
 - **Speed**: CDN + cloud optimization delivers fast user experiences
